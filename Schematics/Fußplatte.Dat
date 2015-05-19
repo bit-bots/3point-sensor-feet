@@ -1,0 +1,20 @@
+﻿Field=Comment~String~Comment~98|Field=Description~String~Description~98|Field=Quantity~Integer~Quantity~98|Field=Manufacturer 1~String~Manufacturer 1~98|Field=Supplier 1~String~Supplier 1~98|Field=Supplier Order Qty 1~Integer~Supplier Order Qty 1~164|Field=Supplier Part Number 1~String~Supplier Part Number 1~91|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~38|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~103|Field=Supplier Currency 1~String~Supplier Currency 1~100|ReportField=Currency~EUR|ReportField=ProductionQuantity~3|ReportField=ProjectFileName~Fußplatte.PrjPcb|ReportField=ProjectFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Fußplatte\Fußplatte.PrjPcb|ReportField=Title~Copy of Bill of Materials For Project [Fußplatte.PrjPcb] (PCB Document : foot_left.PcbDoc)|ReportField=TotalQuantity~51|ReportField=ReportTime~13:34:45|ReportField=ReportDate~11.05.2015|ReportField=ReportDateTime~11.05.2015 13:34:45|ReportField=OutputName~Copy of Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=ProjectRevision~A|ReportField=Address1~Vogt-Kölln-Str. 30|ReportField=Address2~22527 Hamburg|ReportField=Address3~Germany|ReportField=Address4~www.bit-bots.de|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Kuddel|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~11.05.2015|ReportField=CurrentTime~13:27:28|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\11hellwig\hardware\schematics\Hambot\Fußplatte\mainsheet.SchDoc|ReportField=DocumentName~mainsheet.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=EMail~info@bit-bots.de|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~11.05.2015|ReportField=Organization~Hamburg Bit-Bots|ReportField=ProjectName~Fußplatte.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~4|ReportField=Time~|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Fußplatte.PrjPcb|ReportField=DataSourceFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Fußplatte\Fußplatte.PrjPcb|ReportField=PCBDataSourceFileName~foot_left.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Fußplatte\foot_left.PcbDoc
+1k|Resistor|4|MULTICOMP|Farnell|12|9332391|0,02||EUR
+1uF|Capacitor|1|||||||
+1uF|Capacitor|2|MULTICOMP|Farnell|6|2320827|0,063||EUR
+4k7|Resistor|11|||||||
+10uF|Capacitor|2|MULTICOMP|Farnell|6|2320833|0,154||EUR
+15pF|Capacitor|1|MULTICOMP|Farnell|10|1759193|0,021||EUR
+74AHC1G04|Single Logic Inverter|1|NXP|Farnell|3|1085239|0,12||EUR
+74HC126|Quad 3-State Noninverting Buffer|1|NXP|Farnell|3|1085233|0,513||EUR
+100nF|Capacitor|1|MULTICOMP|Farnell|10|1759265|0,013||EUR
+100nF|Capacitor|7|||||||
+A1356|Linear Hall-Effect Sensor|9|||||||
+FXO-HC736R-16|Oscillator with Enable Input|1|FOX ELECTRONICS|Farnell|3|1640997|1,83||EUR
+Green|Typical INFRARED GaAs LED|4|VISHAY|Farnell|12|1659076|0,105||EUR
+L7805CD2T-TR|Positive Voltage Regulator, 3-Pin D2PAK, Tape and Reel|1|STMICROELECTRONICS|Farnell|3|1366576|0,373||EUR
+MAX3079|MAX3079 RS485-Transreceiver|1||Farnell|||||
+NCP1117ST33T3G|1.0 A Low-Dropout Positive Fixed Voltage Regulator, 5 V Vout, 0 to 125 degC, 4-Pin SOT-223, Pb-Free, Tape and Reel|1|ON SEMICONDUCTOR|Farnell|10|1652366|0,514||EUR
+RS-485|Header, 8-Pin|1|||||||
+STM32F100C8T6BTR|ARM Cortex-M3 32-bit MCU, 64 KB Flash, 8 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tape and Reel|1|ST-Microelectronics|Mouser|1335|511-STM32F100C8T6BTR|3,33||EUR
+TTL|Header, 3-Pin|1|||||||

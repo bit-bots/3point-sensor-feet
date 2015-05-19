@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: foot_left.PcbDoc   19.05.2015  17:44:22
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : foot_left-Plated.TXT
+ASCII Non-Plated RoundHoles File : foot_left-NonPlated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          35               233.54 mm (9.19 Inch)
+T2        0.5mm (19.685mil)        Round          5                22.87 mm (0.90 Inch)
+T3        0.7mm (27.559mil)        Round          27               185.86 mm (7.32 Inch)
+T4        0.9mm (35.433mil)        Round          16               68.32 mm (2.69 Inch)
+T5        2.7mm (106.299mil)       Round          4         NPTH   37.05 mm (1.46 Inch)
+T6        8mm (314.961mil)         Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            88               547.63 mm (21.56 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01
